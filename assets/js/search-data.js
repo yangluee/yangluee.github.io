@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-child-opportunity-index",
-          title: "Child Opportunity Index",
-          description: "The Child Opportunity Index (COI) is a composite measure of neighborhood opportunity for children across the United States, developed by diversitydatakids.org.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/coi/";
-          },
-        },{id: "post-a-post-with-plotly-js",
+  },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
