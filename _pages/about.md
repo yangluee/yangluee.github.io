@@ -2,33 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: "Data Analyst · <a href='https://www.bu.edu/ssw/' target='_blank'>Boston University School of Social Work</a>"
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Boston University</p>
+    <p>School of Social Work</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Yang Lu (he/him) is a Data Analyst at the Institute for Equity in Child Opportunity & Healthy Development at the Boston University School of Social Work, where he works on the development and annual updates of the [Child Opportunity Index](https://www.diversitydatakids.org/child-opportunity-index), a project led by Dolores Acevedo-Garcia and Clemens Noelke. In this role, he contributes to building and maintaining a national index of neighborhood conditions shaping children's opportunity across more than 73,000 U.S. census tracts.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+His research interests center on how neighborhood contexts and community institutions shape educational opportunity. Working at the intersection of educational inequality, spatial and urban analytics, and computational social science, he studies how place-based inequalities structure children's learning environments and develops improved ways to measure these contexts across schools and communities using large-scale administrative and geospatial data. He is particularly interested in measuring local environments such as schools, early childhood settings, and community resources, and in how these measures can better capture spatial inequalities in the environments where children grow and learn.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Yang holds an Ed.M. in Education Policy and Analysis from Harvard University and a B.A. in Economics and Urban Studies from McGill University. He is currently completing a part-time M.S. in Data Science at Boston University. Before grad school, he worked as a student affairs practitioner at New York University Shanghai.
